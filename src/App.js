@@ -8,6 +8,8 @@ import Navbar from "./components/Navbar";
 
 import { Route, Switch } from "react-router-dom";
 
+// Sweet
+
 function App() {
   return (
     <>
